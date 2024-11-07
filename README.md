@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Dwayne
+- 👀 I’m a full-stack developer
+- 🌱 I’m currently learning and growing everyday
+- 💞️ I’m looking to collaborate on projects
+- 📫 How to reach me: dacmcuelectronics@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: My background is in hardware electronics, embedded engineering and the reason I can see the full-satck from intergrated circuits to the client
